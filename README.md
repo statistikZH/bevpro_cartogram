@@ -1,2 +1,3 @@
-# bevpro_cartogram
+# Animated cartogram
+
 Animated cartogram of the canton Zurich
